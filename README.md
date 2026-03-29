@@ -25,6 +25,4 @@ To analyze Myntra's retail sales data and extract actionable insights on revenue
  KPI Cards : Highlighting Total Sales & Total Profit 
  Conditional Formatting : Visual emphasis on key data points 
 
----
-
 ## 📂 File Structure
